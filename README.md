@@ -1,1 +1,1 @@
-# auto-image-classifier
+# Automatic Image Classifier
